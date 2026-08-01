@@ -75,3 +75,13 @@ K-->L[WhatsApp]
 
 K-->M[SMS]
 ```
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Frontend | React, Vite |
+| AI Services | Azure AI Speech, Azure AI Language |
+| Cloud | Firebase, Netlify |
+| APIs | REST APIs |
+| Language | JavaScript |
